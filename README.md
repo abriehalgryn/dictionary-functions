@@ -35,12 +35,19 @@ in the dictionary;
 
 
 Format of the dictionary file:
+
 Notes about dictionary.txt 
+
 • 106,184 word definitions 
+
 • Text format (ascii) 
+
 • 3 lines per definition 
+
   o Line 1: The word, followed by type in []
+  
   o The definition (on one line) - multiple definitions of the same word separated by semicolon.
+  
   o Blank line
 • Word 
   o Only uses characters A-Z a-z and the hyphen ‘-‘ 
