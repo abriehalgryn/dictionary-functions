@@ -50,17 +50,32 @@ Notes about dictionary.txt
   
   o Blank line
 • Word 
+
   o Only uses characters A-Z a-z and the hyphen ‘-‘ 
+  
   o No punctuation or similar 
+  
   o Abbreviations are given without the ‘.’ For example, “e.g.” would be “eg” 
+  
   o No words are presented with spaces, the words are joined OR a hyphen is used. e.g. “bumble bee” is “bumblebee” 
+  
   o The language conversions are made eg: é=e æ=ae ö=o 
+  
   o No word has more than 45 characters 
-  o ALL words are in lower case, even proper nouns. 
+  
+  o ALL words are in lower case, even proper nouns.
+  
 • Type, a single word (see table 1) enclosed in square brackets, appearing on the same line as the word, separated by a space from it; 
+
 • Definition 
+
   o Multiple definitions are separated by a semicolon; 
+  
   o No Definition has more than 6014 characters 
+  
   o The language conversions are made eg: é=e æ=ae ö=o 
+  
 • The definitions were not written by your lecturer or ECU. We take no responsibility for any inaccuracies or the content. 
+
   o The definitions are from the GCIDE project, made available under the terms of the GNU general Public License, GCIDE_XML is necessarily also published under those terms. See the file gpl.txt or <http://www.gnu.org/copyleft/gpl.txt>.
+  
